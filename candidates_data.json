@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sunil Hingole",
+        "email": "hingolesuniln@gmail.com",
+        "phone": "9503504436",
+        "experience": 2,
+        "position": "Data Science",
+        "location": "Pune",
+        "tech_stack": "Python",
+        "answers": {
+            "What is the difference between pandas DataFrames and NumPy arrays?": "aa",
+            "How would you optimize the performance of a Python script that uses list comprehension?": "aa",
+            "What is the purpose of the `json` module in Python?": "aa",
+            "How do you handle memory issues when working with large datasets in Python?": "aa"
+        }
+    }
+]
